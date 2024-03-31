@@ -1,4 +1,24 @@
-<h2 align="left">=>Hi 👋! I am Navabharathi S<br>=>Web Developer</h2>
+
+<style>
+  /* Custom CSS */
+  h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4CAF50;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+
+  /* Emoji styling */
+  .emoji {
+    font-size: 1.2em;
+  }
+</style>
+
+<h2 align="left">
+  =>Hi <span class="emoji">👋</span>! I am Navabharathi S<br>
+  =>Web Developer
+</h2>
 
 ###
 
