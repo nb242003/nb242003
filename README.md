@@ -1,5 +1,5 @@
-## Greetings! 👋 I am Navabharathi S, Web Developer.
- Welcome to my profile.
+<h2 align="left">## Greetings! 👋 I am Navabharathi S, Web Developer.<br><br>Welcome to my profile.<br><br><br><br>
+###</h2>
 
 ###
 
