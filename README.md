@@ -1,4 +1,4 @@
-## Greetings! 👋 I am Navabharathi S, a Web Developer.
+## Greetings! 👋 I am Navabharathi S, Web Developer.
 
 Welcome to my profile.
 
